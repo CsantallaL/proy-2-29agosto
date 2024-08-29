@@ -1,0 +1,21 @@
+*{margin:20px;
+border-radius: 20px;
+text-align: center;}
+.caja1{background-color: red;
+    padding: 20px;
+    width: 800px;
+}
+.caja2{background-color: yellow;
+    padding: 20px;
+    }
+.caja3{background-color: rgb(4, 194, 20);
+    padding: 20px;
+    }
+.caja4{background-color: aquamarine;
+    padding: 20px;}
+.caja5{background-color: blue;
+    padding: 20px;}
+.caja6{background-color: darkgray;
+    padding: 20px;}
+.caja7{background-color: rgb(255, 255, 255) ;
+    padding: 20px;}
